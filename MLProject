@@ -1,0 +1,10 @@
+name: My Project
+
+python_env: python_env.yaml
+# Can have a docker_env instead of a conda_env, e.g.
+# docker_env:
+#    image:  mlflow-docker-example
+
+entry_points:
+  main:
+    command: "python main.py "

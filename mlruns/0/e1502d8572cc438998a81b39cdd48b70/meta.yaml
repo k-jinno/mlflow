@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jinno/mlflow_project/mlruns/0/e1502d8572cc438998a81b39cdd48b70/artifacts
+end_time: 1658648319346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e1502d8572cc438998a81b39cdd48b70
+run_uuid: e1502d8572cc438998a81b39cdd48b70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658648299990
+status: 3
+tags: []
+user_id: jinno
